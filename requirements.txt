@@ -1,0 +1,12 @@
+sqlalchemy
+psycopg2-binary
+pandas
+python-dotenv
+yfinance
+streamlit
+groq
+anthropic
+plotly
+statsmodels
+requests
+openpyxl
