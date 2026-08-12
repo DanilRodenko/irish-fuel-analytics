@@ -1,0 +1,1 @@
+SELECT week_date FROM fact_pump_prices;
